@@ -6,11 +6,11 @@ The repository contains KiCad source files: schematic, PCB, BOM.
 
 ## Schematic
 
-![](https://github.com/vitaliy-bobrov/boba-fet-amplifier/blob/master/images/schematic.png)
+![](https://github.com/vitaliy-bobrov/boba-fet-amplifier/blob/main/images/schematic.png)
 
 ## PCB (3D preview)
 
-![](https://github.com/vitaliy-bobrov/boba-fet-amplifier/blob/master/images/boba-fet-amplifier.jpg)
+![](https://github.com/vitaliy-bobrov/boba-fet-amplifier/blob/main/images/boba-fet-amplifier.jpg)
 
 ## Interactive BOM
 
